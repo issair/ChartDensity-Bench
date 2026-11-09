@@ -25,6 +25,15 @@ If you are interested in a practical, end-to-end workflow for reconstructing num
 
 ---
 
+## 📦 Data Availability
+
+The benchmark data is released as assets under the GitHub **Releases** page:
+
+👉 [Download the ChartDensity-Bench data](../../releases/data)
+
+---
+
+
 ## 🧩 Pipeline
 
 The pipeline consists of four sequential scripts:
@@ -346,7 +355,7 @@ If you use ChartDensity-Bench in academic research, please cite the ChartDensity
 ## 📚 Citation
 
 ```bibtex
-@misc{wu2026chartdensitybenchbenchmarkingmllmsnumerical,
+@misc{wu2026chartdensitybench,
       title={ChartDensity-Bench: Benchmarking MLLMs for Numerical Data Reconstruction under Visual Density}, 
       author={Xinhe Wu and Yadong Jin},
       year={2026},
